@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi 👋, I'm YHOTTA</h3>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
 
 <!-- **yhotta240/yhotta240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  -->
+- -->
   
 <p align="left">
   <a href="https://github.com/yhotta240">
@@ -33,11 +33,11 @@ Here are some ideas to get you started:
   </a> -->
 </p>
 
-## My Skill (Programming Languages, Frameworks and Tools)
+### My Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,matlab,python,java,firebase,react,bootstrap,next,mysql,github,vscode,docker,discord,jquery,aws,flutter,git," /> <br /><br />
 
-## NOW TRAINING
+### NOW TRAINING
 
 <img src="https://skillicons.dev/icons?i=react,next,typescript,matlab,vscode,github,aws,flutter,dart,python,java" /> 
 
