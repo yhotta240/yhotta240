@@ -1,7 +1,7 @@
-### Hi there 👋
 
+<h3 align="center">Hi 👋, I'm YHOTTA</h3>
 
-**yhotta240/yhotta240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **yhotta240/yhotta240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
+  -->
+  
 <p align="left">
   <a href="https://github.com/yhotta240">
     <img height="20" src="https://komarev.com/ghpvc/?username=yhotta240" />
@@ -32,4 +32,13 @@ Here are some ideas to get you started:
     <img height="20" src="https://badgen.org/img/zenn/yhotta240/articles?style=plastic" />
   </a> -->
 </p>
+
+## My Skill (Programming Languages, Frameworks and Tools)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,matlab,python,java,firebase,react,next,mysql,github,vscode,docker,discord,jquery,aws,flutter,git," /> <br /><br />
+
+## NOW TRAINING
+
+<img src="https://skillicons.dev/icons?i=react,next,typescript,matlab,vscode,github,aws,flutter,dart,python,java" /> 
+
 
