@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,matlab,python,java,firebase,react,bootstrap,next,mysql,github,vscode,docker,discord,jquery,aws,flutter,git," /> <br /><br />
 
-### NOW TRAINING
+### Now Training
 
 <img src="https://skillicons.dev/icons?i=react,next,typescript,matlab,vscode,github,aws,flutter,dart,python,java" /> 
 
