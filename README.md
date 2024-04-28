@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 
 ### My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,matlab,python,java,firebase,react,bootstrap,next,mysql,github,vscode,docker,discord,jquery,aws,flutter,git," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,matlab,python,java,firebase,react,bootstrap,next,mysql,github,vscode,discord,jquery,flutter,git," /> <br /><br />
 
 ### Now Training
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,matlab,vscode,github,aws,flutter,dart,python,java" /> 
+<img src="https://skillicons.dev/icons?i=react,next,typescript,matlab,vscode,github,aws,flutter,dart,python,java,docker,aws,flask," /> 
 
 
