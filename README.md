@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 ### Now Training
 
 <img src="https://skillicons.dev/icons?i=react,next,typescript,matlab,vscode,github,aws,flutter,dart,python,java,docker,eclipse,git,gitl" />
-<br>
-<br>
 
 ---
 
