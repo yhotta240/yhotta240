@@ -1,4 +1,3 @@
-
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
 
 <!-- **yhotta240/yhotta240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - -->
-  
+
 <p align="left">
   <a href="https://github.com/yhotta240">
     <img height="20" src="https://komarev.com/ghpvc/?username=yhotta240" />
@@ -39,6 +38,45 @@ Here are some ideas to get you started:
 
 ### Now Training
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,matlab,vscode,github,aws,flutter,dart,python,java,docker,flask," /> 
+<img src="https://skillicons.dev/icons?i=react,next,typescript,matlab,vscode,github,aws,flutter,dart,python,java,docker,eclipse,git,gitl" />
+<br>
+<br>
 
+---
 
+### Now Projects
+
+#### Chrome Extension
+
+- YouTube スマートタブ - YouTube Smart Tabs<br>
+  ▶ https://github.com/yhotta240/youtube-smart-tabs-extension
+
+### My Products
+
+#### Chrome Extension
+
+- 簡単ファビコンダウンロード - Easy Favicon Downloader<br>
+  ▶ https://github.com/yhotta240/easy-favicon-downloader-extension
+
+- YouTube コメントポジション - YouTube Comment Position<br>
+  ▶ https://github.com/yhotta240/youtube-comment-position-extension
+
+- 選択＆カスタム検索 - Select & Custom Search <br>
+  ▶ https://github.com/yhotta240/select-and-custom-search-extension
+
+- Twitch 定型チャット - Twitch Chat Templates<br>
+  ▶ https://github.com/yhotta240/twitch-chat-templates-extension
+
+- Affiliate Link Cleanser for X/Twitter - アフィリエイトリンク洗浄ツール<br>
+  ▶ https://github.com/yhotta240/affiliate-link-cleanser-extension
+
+- Easy Web Blur - 簡単 Web ぼかし<br>
+  ▶ https://github.com/yhotta240/easy-web-blur-extension
+
+- Google Meet Captions Logger - Google Meet 字幕ログ<br>
+  ▶ https://github.com/yhotta240/meet-caption-log-extension
+
+#### Starter Templates
+
+- Web Extension Starter Kit - Web 拡張機能 スターターキット<br>
+  ▶ https://github.com/yhotta240/web-extension-starter-kit-jp
