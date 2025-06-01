@@ -44,14 +44,17 @@ Here are some ideas to get you started:
 
 ### Now Projects
 
-#### Chrome Extension
+#### VS Code Extension
 
-- YouTube スマートタブ - YouTube Smart Tabs<br>
-  ▶ https://github.com/yhotta240/youtube-smart-tabs-extension
+- Paste As Markdown Codeblock<br>
+  ▶ https://github.com/yhotta240/paste-as-markdown-codeblock
 
 ### My Products
 
 #### Chrome Extension
+
+- YouTube スマートタブ - YouTube Smart Tabs<br>
+  ▶ https://github.com/yhotta240/youtube-smart-tabs-extension
 
 - 簡単ファビコンダウンロード - Easy Favicon Downloader<br>
   ▶ https://github.com/yhotta240/easy-favicon-downloader-extension
