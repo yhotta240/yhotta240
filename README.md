@@ -34,23 +34,27 @@ Here are some ideas to get you started:
 
 ### My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,firebase,react,bootstrap,mysql,vscode,jquery," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,firebase,react,bootstrap,mysql,vscode,jquery,php" /> <br /><br />
 
 ### Now Training
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,matlab,vscode,github,aws,flutter,dart,python,java,docker,eclipse,git,gitl" />
+<img src="https://skillicons.dev/icons?i=nodejs,next,typescript,matlab,docker,eclipse,git,spring," />
 
 ---
 
 ### Now Projects
 
+#### Chrome Extension
+- 簡単サムネイルダウンロード - Easy Thumbnail Downloader<br>
+  ▶  https://github.com/yhotta240/youtube-smart-tabs-extension
+
+### My Products
+
 #### VS Code Extension
 
 - Paste As Markdown Codeblock<br>
   ▶ https://github.com/yhotta240/paste-as-markdown-codeblock
-
-### My Products
-
+  
 #### Chrome Extension
 
 - YouTube スマートタブ - YouTube Smart Tabs<br>
