@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 ## 🌐 Website
 
 Check out my portfolio and latest projects at  
-👉 [https://example.com](https://example.com)
+👉 [https://yhotamos.com](https://yhotamos.com)
 
