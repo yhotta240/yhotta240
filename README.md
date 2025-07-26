@@ -42,46 +42,8 @@ Here are some ideas to get you started:
 
 ---
 
-### Now Projects
+## 🌐 Website
 
-#### Chrome Extension
-- 簡単サムネイルダウンロード - Easy Thumbnail Downloader<br>
-  ▶  https://github.com/yhotta240/youtube-smart-tabs-extension
+Check out my portfolio and latest projects at  
+👉 [https://example.com](https://example.com)
 
-### My Products
-
-#### VS Code Extension
-
-- Paste As Markdown Codeblock<br>
-  ▶ https://github.com/yhotta240/paste-as-markdown-codeblock
-  
-#### Chrome Extension
-
-- YouTube スマートタブ - YouTube Smart Tabs<br>
-  ▶ https://github.com/yhotta240/youtube-smart-tabs-extension
-
-- 簡単ファビコンダウンロード - Easy Favicon Downloader<br>
-  ▶ https://github.com/yhotta240/easy-favicon-downloader-extension
-
-- YouTube コメントポジション - YouTube Comment Position<br>
-  ▶ https://github.com/yhotta240/youtube-comment-position-extension
-
-- 選択＆カスタム検索 - Select & Custom Search <br>
-  ▶ https://github.com/yhotta240/select-and-custom-search-extension
-
-- Twitch 定型チャット - Twitch Chat Templates<br>
-  ▶ https://github.com/yhotta240/twitch-chat-templates-extension
-
-- Affiliate Link Cleanser for X/Twitter - アフィリエイトリンク洗浄ツール<br>
-  ▶ https://github.com/yhotta240/affiliate-link-cleanser-extension
-
-- Easy Web Blur - 簡単 Web ぼかし<br>
-  ▶ https://github.com/yhotta240/easy-web-blur-extension
-
-- Google Meet Captions Logger - Google Meet 字幕ログ<br>
-  ▶ https://github.com/yhotta240/meet-caption-log-extension
-
-#### Starter Templates
-
-- Web Extension Starter Kit - Web 拡張機能 スターターキット<br>
-  ▶ https://github.com/yhotta240/web-extension-starter-kit-jp
